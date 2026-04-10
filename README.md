@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Guide App<br>👯 I’m looking to collaborate on ride sharing app<br>🌱 I’m currently learning bloc state management<br>💬 Ask me about ......<br>⚡ 
+🔭 I’m currently working on Budget Tracking App<br>👯 I’m looking to collaborate on ride sharing app<br>🌱 I’m currently learning bloc state management<br>💬 Ask me about ......<br>⚡ 
 
 
 ## 🌐 Socials:
